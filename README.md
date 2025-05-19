@@ -14,14 +14,14 @@ This project implements a simple AND logic gate using a single 2N3904 NPN transi
 
 ### Schematic
 
-![Schematic](https://github.com/user-attachments/assets/5f683f7c-4a9a-4fad-ba4f-5dd78fe12f35)
+![image](https://github.com/user-attachments/assets/83b09757-3378-4bc8-b2b7-6dd56381ecdf)
 
 ### PCB Layout
 
-![PCB](https://github.com/user-attachments/assets/8d992cfc-2ba6-4551-947b-90ef7bf356b8)
+![image](https://github.com/user-attachments/assets/7b505490-d8b9-4231-a3db-d7d946c874f3)
 
 ### 3D View
 
-![3D View](https://github.com/user-attachments/assets/72c1968a-f178-400b-86bc-c4de5b02b06e)
+![image](https://github.com/user-attachments/assets/76b909f0-8c72-43c1-92bc-ff3963d619c6)
 
 #### Slack username: Ye Gao
